@@ -1,0 +1,12 @@
+.producto {
+    background-color: white;
+    color: black;
+    margin: 24px;
+    padding: 32px;
+    width: 560px;
+    border-radius: 16px;
+}
+
+.producto p {
+    margin-bottom: 0;
+}
